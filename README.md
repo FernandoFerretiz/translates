@@ -101,7 +101,3 @@ Los archivos traducidos se guardarán de acuerdo a tu selección:
 - Si algún archivo JSON tiene problemas, el script mostrará mensajes de error.
 
 ---
-
-## Licencia
-
-Este proyecto está bajo la licencia **MIT**. Puedes usarlo y modificarlo libremente.
